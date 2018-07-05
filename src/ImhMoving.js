@@ -1,5 +1,5 @@
 
-var brad01Layer = cc.Layer.extend({
+var ImhMovingLayer = cc.Layer.extend({
     sprite: null,
     Img: null,
     isShoot: false,
@@ -67,10 +67,10 @@ var brad01Layer = cc.Layer.extend({
     },
 });
 
-var brad01Scene = cc.Scene.extend({
+var ImhMovingScene = cc.Scene.extend({
     onEnter:function () {
         this._super();
-        var layer = new brad01Layer();
+        var layer = new ImhMovingLayer();
         this.addChild(layer);
     }
 });

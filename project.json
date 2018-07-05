@@ -20,7 +20,7 @@
         "src/drawing.js",
         "src/DragImg.js",
         "src/twoImg.js",
-        "src/brad01.js",
+        "src/ImhMoving.js",
         "src/app.js"
     ]
 }
