@@ -21,6 +21,7 @@
         "src/DragImg.js",
         "src/twoImg.js",
         "src/ImhMoving.js",
+        "src/brad06.js",
         "src/app.js"
     ]
 }
